@@ -1,24 +1,24 @@
-ï»¿gitä½¿ç”¨  
-1.å…‹éš†ç‰ˆæœ¬åº“  æŸ¥çœ‹ç¼–è¾‘å¯¹æ¯”ç¡®è®¤ å¡«å†™æ—¥å¿—   commit push --->å¿˜è®°push æ˜¾ç¤ºæ—¥å¿—æŸ¥çœ‹  revert push 
-2.ç¼–è¾‘ä»£ç  
-3.æ‹‰å–
-4.å¤šäººåˆä½œå¼€å‘ åˆå¹¶ä»£ç  è§£å†³å†²çª
-5.å¼€é€šä»–äººå¼€å‘æƒé™  settings-> collaborators æ­¥éª¤å¦‚ä¸Š 
+gitÊ¹ÓÃ  
+1.¿ËÂ¡°æ±¾¿â  ²é¿´±à¼­¶Ô±ÈÈ·ÈÏ ÌîĞ´ÈÕÖ¾   commit push --->Íü¼Çpush ÏÔÊ¾ÈÕÖ¾²é¿´  revert push 
+2.±à¼­´úÂë 
+3.À­È¡
+4.¶àÈËºÏ×÷¿ª·¢ ºÏ²¢´úÂë ½â¾ö³åÍ»
+5.¿ªÍ¨ËûÈË¿ª·¢È¨ÏŞ  settings-> collaborators ²½ÖèÈçÉÏ 
 
 
 
-åˆå¹¶ä»£ç  è§£å†³å†²çª 
-1.æ£€æŸ¥commit 
-2.ä¸è¦pull æŠ¥é”™   
-1)å…ˆpull å†è§£å†³å†²çª å†commit push 
+ºÏ²¢´úÂë ½â¾ö³åÍ» 
+1.¼ì²écommit 
+2.²»Òªpull ±¨´í   
+1)ÏÈpull ÔÙ½â¾ö³åÍ» ÔÙcommit push 
 
-2) æ¨èï¼šä¿å­˜æœ¬åœ°ä¿®æ”¹   pull  stash pop  success  ->commit push
-                                         fail->æŸ¥çœ‹æœ‰å†²çªçš„åœ°æ–¹-ã€‹resolve ->commit push
-
-
-
-stash save æ—¥å¿—->ä¿å­˜ 
+2) ÍÆ¼ö£º±£´æ±¾µØĞŞ¸Ä   pull  stash pop  success  ->commit push
+                                         fail->²é¿´ÓĞ³åÍ»µÄµØ·½-¡·resolve ->commit push
 
 
 
-è§£å†³å†²çª local remote  åˆå¹¶merge -->ç›´æ¥åœ¨æœ€ä¸‹é¢çš„mergeåšä¿®æ”¹-ã€‹ä¿å­˜remark save resolve->commit push
+stash save ÈÕÖ¾->±£´æ 
+
+
+
+½â¾ö³åÍ» local remote  ºÏ²¢merge -->Ö±½ÓÔÚ×îÏÂÃæµÄmerge×öĞŞ¸Ä-¡·±£´æremark save resolve->commit push
