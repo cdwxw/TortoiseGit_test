@@ -1,0 +1,24 @@
+git使用  
+1.克隆版本库  查看编辑对比确认 填写日志   commit push --->忘记push 显示日志查看  revert push 
+2.编辑代码 
+3.拉取
+4.多人合作开发 合并代码 解决冲突
+5.开通他人开发权限  settings-> collaborators 步骤如上 
+
+
+
+合并代码 解决冲突 
+1.检查commit 
+2.不要pull 报错   
+1)先pull 再解决冲突 再commit push 
+
+2) 推荐：保存本地修改   pull  stash pop  success  ->commit push
+                                         fail->查看有冲突的地方-》resolve ->commit push
+
+
+
+stash save 日志->保存 
+
+
+
+解决冲突 local remote  合并merge -->直接在最下面的merge做修改-》保存remark save resolve->commit push
